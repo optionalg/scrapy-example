@@ -12,7 +12,7 @@ pip install scrapy
 ```
 - Idownload stopwords for rake-nltk using this command:
 ```
-python -c "import nltk; nltk.download('stopwords')"
+python3 -c "import nltk; nltk.download('stopwords')"
 ```
 
 
